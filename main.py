@@ -1,1 +1,1 @@
-print("Workshop Git & GitHub - Jornada de Dados")
+print("Workshop Git & GitHub - Jornada de Dados 2025")
